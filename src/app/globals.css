@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme {
+  --font-primary: "var(--font-manrope)";
+  --color-primary: #615efc;
+}
